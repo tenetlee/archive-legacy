@@ -7,6 +7,8 @@ This is a course on Interpreters, Compilers and everything underneath.
 
 ## Key Ideas
 
+### Testing Smaller Titles
+
 ```c
 printf("HELLO!");
 - Add the core concepts
