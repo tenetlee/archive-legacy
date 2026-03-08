@@ -20,5 +20,3 @@ printf("HELLO!");
 $$
 x^2 + y^2 = z^2
 $$
-
-![drawing-2026-03-08T07-07-43-848Z.png](images/drawing-2026-03-08T07-07-43-848Z-light.png)
