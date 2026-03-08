@@ -3,7 +3,7 @@ Prerequisites: Mathematics/Calculus 1
 
 ## Introduction
 
-This is a course to Interpreters, Compilers and everything underneath. 
+This is a course to Interpreters, Compilers and everything underneath.
 
 ## Key Ideas
 
