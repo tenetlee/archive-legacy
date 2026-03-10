@@ -1,5 +1,5 @@
 # Two Sum implementation in Vimscript
-Prerequisites: Computer Science/Languages/Vimscript
+Prerequisites: Computer Science/Programming Languages/Vimscript
 
 ## Overview
 
