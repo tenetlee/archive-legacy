@@ -1,12 +1,6 @@
-# Two Sum implementation in Vimscript
+# Two Sum in Vimscript
 Prerequisites: Computer Science/Programming Languages/Vimscript
 
-## Overview
+## Introduction
 
-Write the first section here.
-
-## Key Ideas
-
-- Add the core concepts
-- Link to supporting material
-- Include diagrams or equations when useful
+Welcome to the Two Sum implementation in Vimscript. Two Sum is a Leetcode problem, 
