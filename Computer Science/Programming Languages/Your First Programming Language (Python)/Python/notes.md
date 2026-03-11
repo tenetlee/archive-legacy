@@ -1,11 +1,9 @@
 # Python: Your First Programming Language
+Prerequisites: Computer Science/Introduction to Computers
 
-## Overview
+## Introduction
+Welcome to your very first programming language, Python! By the time you finish this article, you should have full, comprehensive knowledge of everything and how it works, both over and under the hood. 
 
-Write the first section here.
+No need to waste any more time. Let's get started. 
 
-## Key Ideas
-
-- Add the core concepts
-- Link to supporting material
-- Include diagrams or equations when useful
+## What is a programming language?
