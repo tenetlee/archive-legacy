@@ -1,11 +1,8 @@
 # Computers
 
-## Overview
+## Introduction
+Welcome to your Computer Science journey! This article will cover the very basics and fundamentals that make it easier to understand everything else. 
 
-Write the first section here.
+Let's not waste any more time. Let's get started. 
 
-## Key Ideas
-
-- Add the core concepts
-- Link to supporting material
-- Include diagrams or equations when useful
+## The very beginning
