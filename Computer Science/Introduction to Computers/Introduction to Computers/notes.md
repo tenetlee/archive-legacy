@@ -1,11 +1,9 @@
 # Introduction to Computers
 
-## Overview
+## Introduction
 
-Write the first section here.
+Welcome to your very first article on your Computer Science journey! This article will teach you the very basics to get started. 
 
-## Key Ideas
+Let's stop wasting time. Let's get started.
 
-- Add the core concepts
-- Link to supporting material
-- Include diagrams or equations when useful
+## The very beginning
